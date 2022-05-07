@@ -1,0 +1,57 @@
+/*-------------------My-carousel--------------------*/
+
+.my-carousel {
+    display: flex;
+    animation-duration: 1s;
+}
+
+@keyframes myAnimation {
+}
+
+.my-carousel-dots .dot {
+    background: 0 0;
+    color: inherit;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+}
+.my-carousel-dots .dot span {
+    width: 10px;
+    height: 10px;
+    margin: 5px 7px;
+    background: #D6D6D6;
+    display: block;
+    transition: opacity .2s ease;
+    transition-property: opacity;
+    border-radius: 30px;
+}
+
+.my-carousel-dots .dot span {
+    transition-property: all !important;
+}
+.my-carousel-dots .dot.active span {
+    width: 30px;
+}
+
+.my-item {
+    display: flex;
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    flex: 0 0 100%;
+    margin-right: 50px;
+}
+
+.btn-prev {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+    left: 0;
+}
+
+.btn-next {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+    right: 0;
+}

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.133" height="51.458" viewBox="0 0 55.133 51.458">
+  <g id="blog" transform="translate(0 -15.999)">
+    <g id="Group_134" data-name="Group 134" transform="translate(0 15.999)">
+      <g id="Group_133" data-name="Group 133">
+        <path id="Path_491" data-name="Path 491" d="M54.214,60.106H53.3V27.026A3.676,3.676,0,0,0,49.62,23.35H41.35V16.918a.919.919,0,0,0-1.088-.9l-5.513,1.034-.919.173-8.186,1.535H20.216a1.838,1.838,0,0,0-1.838,1.838,4.594,4.594,0,0,0-4.2,2.757H5.513a3.676,3.676,0,0,0-3.676,3.676v33.08H.919A.919.919,0,0,0,0,61.025v2.757a3.676,3.676,0,0,0,3.676,3.676H51.458a3.676,3.676,0,0,0,3.676-3.676V61.025A.919.919,0,0,0,54.214,60.106ZM26.648,20.437l12.864-2.412v14.33L26.648,29.939Zm0,11.367,1.838.345v1.309H26.648Zm-6.432-11.21H24.81v9.189H20.216Zm1.838,16.54V31.62H24.81v5.513Zm2.757,1.838V40.35a1.378,1.378,0,0,1-2.757,0V38.971Zm-6.432-16.54v5.513a2.757,2.757,0,0,1,0-5.513Zm-14.7,4.594a1.838,1.838,0,0,1,1.838-1.838h8.27a4.6,4.6,0,0,0,4.594,4.594,1.838,1.838,0,0,0,1.838,1.838V40.35a3.216,3.216,0,0,0,6.432,0V35.3H29.4a.919.919,0,0,0,.919-.919V32.5l9.939,1.864a.949.949,0,0,0,.169.016.919.919,0,0,0,.919-.919v-8.27h8.27a1.838,1.838,0,0,1,1.838,1.838v33.08H35.837a.919.919,0,0,0-.65.268l-1.569,1.569h-12.1l-1.569-1.569a.919.919,0,0,0-.65-.268H3.676ZM53.3,63.781a1.838,1.838,0,0,1-1.838,1.838H3.676a1.838,1.838,0,0,1-1.838-1.838V61.944H18.916l1.569,1.569a.919.919,0,0,0,.65.269H34a.919.919,0,0,0,.65-.269l1.569-1.569H53.3Z" transform="translate(0 -15.999)" fill="#744200"/>
+      </g>
+    </g>
+    <g id="Group_136" data-name="Group 136" transform="translate(6.432 27.945)">
+      <g id="Group_135" data-name="Group 135">
+        <path id="Path_492" data-name="Path 492" d="M97.35,120H93.674v1.838h2.757v24.81H57.838v-24.81h4.594V120H56.919a.919.919,0,0,0-.919.919v26.648a.919.919,0,0,0,.919.919H97.35a.919.919,0,0,0,.919-.919V120.919A.919.919,0,0,0,97.35,120Z" transform="translate(-56 -120)" fill="#744200"/>
+      </g>
+    </g>
+    <g id="Group_138" data-name="Group 138" transform="translate(26.266 57.58)">
+      <g id="Group_137" data-name="Group 137" transform="translate(0 0)">
+        <rect id="Rectangle_136" data-name="Rectangle 136" width="2" height="2" transform="translate(0.051 0.384)" fill="#744200"/>
+      </g>
+    </g>
+    <g id="Group_140" data-name="Group 140" transform="translate(12.741 47.176)">
+      <g id="Group_139" data-name="Group 139" transform="translate(0 0)">
+        <rect id="Rectangle_137" data-name="Rectangle 137" width="3" height="1" transform="translate(-0.424 -0.212)" fill="#744200"/>
+      </g>
+    </g>
+    <g id="Group_142" data-name="Group 142" transform="translate(17.943 47.176)">
+      <g id="Group_141" data-name="Group 141" transform="translate(0 0)">
+        <rect id="Rectangle_138" data-name="Rectangle 138" width="25" height="1" transform="translate(0.374 -0.212)" fill="#744200"/>
+      </g>
+    </g>
+    <g id="Group_144" data-name="Group 144" transform="translate(11.7 50.297)">
+      <g id="Group_143" data-name="Group 143" transform="translate(0 0)">
+        <rect id="Rectangle_139" data-name="Rectangle 139" width="30" height="1" transform="translate(-0.384 -0.333)" fill="#744200"/>
+      </g>
+    </g>
+  </g>
+</svg>

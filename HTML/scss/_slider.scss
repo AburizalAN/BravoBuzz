@@ -1,0 +1,98 @@
+.background-slide-img {
+	top: 50%;
+	left: calc(50% + 50px);
+	transform: translateY(-50%);
+	height: 520px;
+	position: absolute;
+	overflow: hidden;
+	width: calc(50% - 50px);
+	@media screen and (max-width: 992px){
+		width: 100%;
+		z-index: 0;
+	}
+	.img-item-wrapper {
+		position: relative;
+		width: 650px; height: 100%;
+	}
+	.img-item {
+		display: flex;
+		flex-flow: row;
+		align-items: center;
+		flex-wrap: wrap;
+		width: 650px; height: 100%;
+		z-index: -1;
+		img {
+			height: 100%;
+			min-width: 100%;
+		}
+	}
+	.overlay {
+		background: #002849;
+		position: absolute;
+		height: 100%; width: 100%;
+		opacity: 0.5;
+		top: 0; left: 0;
+	}
+	.dots{
+		display: flex;
+		flex-flow: column;
+		align-items: center;
+		transform: translateY(-50%);
+		padding: 1.2vh 1vh;
+		border-radius: 100px;
+		top: 50%; right: 100px;
+		@media screen and (max-width: 992px){
+			right: 30px;
+			bottom: 0px;
+			top: unset;
+		}
+		transition: .2s;
+		.dot {
+			width: 1.6vh;
+			height: 1.6vh;
+			border-radius: 100px;
+			background-color: white;
+			margin-bottom: 15px;
+			transition: .7s;
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+		.active {
+			height: 3.5vh;
+		}
+	}
+	.sosmed {
+		display: flex;
+		justify-content: space-between;
+		width: 36vh;
+		position: absolute;
+		list-style: none;
+		padding: 0;
+		bottom: 30px;
+		right: 100px;
+		z-index: 1000;
+		@media screen and (max-width: 992px){
+			right: 50%;
+			transform: translateX(50%);
+		}
+		
+	}
+	.sosmed li a {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-radius: 50%;
+		width: 7vh; height: 7vh;
+		font-size: 2.5vh;
+		color: white;
+		border: 1.7px solid;
+		transition: all .4s ease;
+	}
+	.sosmed li a:hover {
+		transform: translateY(-17%);
+		background-color: #FFCE2E;
+		border-color: #FFCE2E;
+		color: #001141;
+	} 
+}
